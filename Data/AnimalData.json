@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Common Bird",
+    "ImagePath": "/Iamges/CommonBird.png",
+    "BiologicalAspect": {
+      "Detail": "Birds are endothermic tetrapod vertebrates. They are bipedal and have wings and feathers. Bird organ systems are adopted for fight. For example, they have light-weight air-filled bones and a large four-chambered heart.",
+      "Links": [
+        "General Database: https://avibase.bsc-eoc.org/avibase.jsp",
+        "Marked Birds: https://gullstothehorizon.wordpress.com/2013/12/21/marked-birds-database-first-use/",
+        "Migration Dashboard(US Only): https://birdcast.info/migration-tools/migration-dashboard/"
+      ]
+    },
+    "ArchitecturalAspect": {
+      "Detail": "Avian Architecture describes how birds design, engineer, and build their nests, deconstructing all types of nestes found around the world using architectural blueprints and detailed descriptions of the construction process and engineering techniques birds use.",
+      "Links": [
+        "AvianSkeletalMorphology: https://www.aves3d.org/about"
+      ]
+    },
+    "PhysicalAspect": {
+      "Detail": "They have three characteristics that distinguish them from other animals: feathers; hard-shelled eggs; and hollow bones. Like mammals, birds are warm-blooded, meaning that their body temperature stays the same no matter how hot or cold it is outside.",
+      "Links": [
+        "RadarMeasurementsOfSpeedPerSpecies: https://www.researchgate.net/profile/Bruno-Bruderer-2/publication/227621013_Flight_characteristics_of_birds_I_Radar_measurements_of_speeds/links/5cb97ea5299bf120976fa38a/Flight-characteristics-of-birds-I-Radar-measurements-of-speeds.pdf"
+      ]
+    },
+    "OtherImportantAspect": {
+      "Detail": "Birds are ecologically important because they help plants to pollinate and spread, and they also eat pest insects. Their economic importance is also great. Domesticated poultry provide the largest source of nimal protein for humans. Many people think birds are free to do whatever they wish, and that may be true.!",
+      "Links": [
+        "More to come...."
+      ]
+    }
+  }
+]
